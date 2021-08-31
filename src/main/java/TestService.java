@@ -6,6 +6,6 @@ public class TestService {
 
     @GET
     public String getTest(){
-        return "Hello World!!";
+        return "Hello World uden h1";
     }
 }
